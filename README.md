@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Aryan!</h1>
+<h1><img src="./typingcat.gif" width="30"/> Hey! Nice to see you. I'm Aryan!</h1>
 
 - I am working as a Software Engineer at Kotak Mahindra Bank!
 - Always eager to learn and collaborate on **impactful projects/products**
